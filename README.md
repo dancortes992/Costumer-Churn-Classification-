@@ -1,7 +1,7 @@
 # Costumer-Churn-Classification
 ### Background
 
-This project is part of the Tripleten data science practium. Focuses of the project is classification moeling for prediciton of client churn.
+This project is part of the Tripleten data science practium. Focuses of the project is classification modeling for prediciton of client churn.
 
 ## Project Description
 
